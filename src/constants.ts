@@ -1,0 +1,2 @@
+export const MESSAGES_PACKAGE_ID =
+  "0x45750c3e73763a59a6386d505f72c849defe77dcee09cd573ede9ca8fed293a2";
